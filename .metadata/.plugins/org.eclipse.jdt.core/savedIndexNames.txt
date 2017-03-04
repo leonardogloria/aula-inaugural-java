@@ -1,0 +1,3 @@
+INDEX VERSION 1.129+/Users/leonardogloria/Documents/Aula Inaugural/Codigos/workspace/.metadata/.plugins/org.eclipse.jdt.core
+726174780.index
+1770241800.index
